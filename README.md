@@ -1,3 +1,3 @@
 # demo-project
-This is my first project
-Aouther- Ranjit Jagatap
+This is my first project.
+Auther- Ranjit Jagatap
